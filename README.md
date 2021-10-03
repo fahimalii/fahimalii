@@ -8,7 +8,7 @@
 
 <br />
 
-## 🛠️ Languages, Frameworks, Tools & Technologies:
+## 🛠️ Languages, Frameworks, Tools & Technologies
 
 <a href="https://docs.microsoft.com/en-us/dotnet/csharp/"><img align="center" src="./assets/c-sharp.svg" alt="fahimalii | Skill | Language | CSharp" title="CSharp" height="25" width="25" /></a>&nbsp; &nbsp; &nbsp;
 <a href="https://docs.microsoft.com/en-us/aspnet/core/?view=aspnetcore-5.0"><img align="center" src="./assets/dot-net-core.svg" alt="fahimalii | Skill | Framework | Dotnet" title="Dotnet" height="25" width="25" /></a>&nbsp; &nbsp; &nbsp;
@@ -43,7 +43,7 @@
 <br />
 <br />
 
-## Cloud Platforms
+## ☁️ Cloud Platforms
 <a href="https://aws.amazon.com/"><img align="center" src="./assets/aws.svg" alt="fahimalii | Cloud Platform | AWS" title="AWS" height="25" width="25" /></a>&nbsp; &nbsp; &nbsp;
 <a href="https://www.heroku.com/"><img align="center" src="./assets/heroku.svg" alt="fahimalii | Cloud Platform | Heroku" title="Heroku" height="25" width="25" /></a>&nbsp; &nbsp; &nbsp;
 <br />
