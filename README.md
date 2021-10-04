@@ -55,8 +55,8 @@
   <img src="https://github-readme-stats.vercel.app/api?username=fahimalii&show_icons=true&hide_border=true&include_all_commits=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" alt="Fahim's GitHub Stats" height="180em">&nbsp;&nbsp;
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fahimalii&layout=compact&count_private=true&theme=react&hide_border=true&bg_color=0D1117" alt="Fahim's GitHub Stats" height="180em">
   <br />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=fahimalii&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0" alt="Fahim's Github Streak Stats" height="180em">
-  <a href="https://github.com/Ashutosh00710/github-readme-activity-graph"><img alt="Fahim's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=fahimalii&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=fahimalii&count_private=true&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0" alt="Fahim's Github Streak Stats" height="180em">
+  <a href="https://github.com/Ashutosh00710/github-readme-activity-graph"><img alt="Fahim's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=fahimalii&count_private=true&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
 </p>
 
 <br />
